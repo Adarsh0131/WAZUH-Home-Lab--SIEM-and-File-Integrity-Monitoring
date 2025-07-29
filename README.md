@@ -1,2 +1,2 @@
 # WAZUH-Home-Lab--SIEM-and-File-Integrity-Monitoring
-Setup guide for Wazuh SIEM and File Integrity Monitoring Lab
+This project demonstrates how to build a Wazuh setup for file integrity monitoring.
